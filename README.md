@@ -5,8 +5,8 @@ This Tableau dashboard provides insights into **London's bike rides** data, anal
 [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/meenalochani.gandham/viz/LondonBikeRidesAnalysis_17382810283260/Dashboard?publish=yes)
 
 ## Dashboard Preview
-![London Bike Rides Dashboard](dashboard_preview.png)
-![London Bike Rides Dashboard_Intefactive](dashboard_preview.png)
+![London Bike Rides Dashboard](Dashboard.png)
+![London Bike Rides Dashboard_Intefactive](Dashboard_int.png)
 
 
 ## Key Insights:
