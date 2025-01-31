@@ -2,7 +2,7 @@
 ## Overview 
 This Tableau dashboard provides insights into **London's bike rides** data, analyzing trends, peak hours, and weather effects on cycling patterns.
 ## View the Interactive Dashboard
-[Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/meenalochani.gandham/viz/LondonBikeRidesAnalysis_17382810283260/Dashboard?publish=yes)
+[Click here to view the dashboard on Tableau Public](https://public.tableau.com/views/LondonBikeRidesAnalysis_17382810283260/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard Preview
 ![London Bike Rides Dashboard](Dashboard.png)
