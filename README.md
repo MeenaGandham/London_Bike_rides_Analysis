@@ -6,6 +6,8 @@ This Tableau dashboard provides insights into **London's bike rides** data, anal
 
 ## Dashboard Preview
 ![London Bike Rides Dashboard](dashboard_preview.png)
+![London Bike Rides Dashboard_Intefactive](dashboard_preview.png)
+
 
 ## Key Insights:
 - **Peak Ride Hours:** The highest number of bike rides occur between **7 AM - 9 AM** and **5 PM - 7 PM**.
