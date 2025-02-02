@@ -8,16 +8,30 @@ This Tableau dashboard provides insights into **London's bike rides** data, anal
 ![London Bike Rides Dashboard](Dashboard.png)
 ![London Bike Rides Dashboard_Intefactive](Dashboard_int.png)
 
+## 📂 Dataset  
+- **Source**: [Kaggle – london-bike-sharing-dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset))  
+- **Format**: `.zip` file containing `.csv` data  
+- **Fields**: Ride ID, Start Time, End Time, Start Station, End Station, Duration, User Type  
 
-## Key Insights:
-- **Peak Ride Hours:** The highest number of bike rides occur between **7 AM - 9 AM** and **5 PM - 7 PM**.
-- **Seasonal Trends:** Summer months see a significant increase in cycling.
-- **Weather Impact:** Rainy days show a drop in bike usage.
+## 🔧 Tools Used  
+- **Data Processing**: Jupyter Notebook, Pandas, NumPy  
+- **Storage**: CSV → Excel  
+- **Visualization**: Tableau  
+
+## 🚀 Workflow  
+1. **Extracted dataset** from Kaggle and unzipped files using Python.  
+2. **Cleaned data** (removed duplicates, formatted timestamps, handled missing values).  
+3. **Converted to Excel** for structured storage.  
+4. **Created a Tableau dashboard** to visualize trends.  
+
+## 📊 Key Insights  
+✔ **Peak Ride Hours:** High usage between **5 PM – 7 PM**.  
+✔ **Top Stations:** Central business districts see the most activity.  
+✔ **Seasonal Impact:** Winter months show a **drop in ridership**.  
 
 ## Files in This Repository
 - `README.md` - Documentation
 - `dashboard_preview.png` - Dashboard Screenshot
-- `index.html` (Optional) - Embedded Tableau Dashboard for GitHub Pages
 
 ## About This Project
 Created by **Meenalochani Gandham** as part of a data visualization exercise.
